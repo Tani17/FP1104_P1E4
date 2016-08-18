@@ -4,3 +4,11 @@ En 1833 comenzó a trabajar junto a Charles Babbage iniciándose rápidamente en
 En 1843, Ada publicó una serie de notas sobre la máquina analítica de Babbage. Este invento, que nunca se construyó, fue el antecedente del ordenador moderno. 
 También describió conceptos como el bucle y la subrutina y escribió un plan detallado para calcular los valores de los números de Bernoulli. Del mismo modo describió como se podían realizar operaciones trigonométricas y definió el uso de tarjetas perforadas para programar la mítica máquina de Babbage.
 Luego de trabajar incansablemente  Ada Lovelace murió de cáncer, en 1852, a los 37 años.
+
+Algoritmo
+Se denomina algoritmo a un grupo finito de operaciones organizadas de manera lógica y ordenada que permite solucionar un determinado problema. Se trata de una serie de instrucciones o reglas establecidas que, por medio de una sucesión de pasos, permiten arribar a un resultado o solución.
+
+Técnica “Divide y vencerás”
+La técnica de diseño de algoritmos llamada "divide y vencerás" (divide and conquer) consiste en descomponer el problema original en varios sub-problemas más sencillos, para luego resolver éstos mediante un cálculo sencillo. Por último, se combinan los resultados de cada sub-problema para obtener la solución del problema original.
+
+
